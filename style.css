@@ -29,8 +29,8 @@ section {
 }
 
 .qr-code {
-    width: calc(576px * .5);
-    height: calc(576px * .5);
+    width: 288px;
+    height: 288px;
     margin-top: 1.5rem ;
     border-radius: 15px;
 }
